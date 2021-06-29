@@ -1,0 +1,21 @@
+{
+    "name": "xihongke/csv-exporter",
+    "description": "A lightweight and concise csv exporter./一个轻量、简洁的Csv导出器。",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XihongKe",
+            "email": "xihongke@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "XihongKe\\CsvExporter\\": "src"
+        }
+    }
+}
