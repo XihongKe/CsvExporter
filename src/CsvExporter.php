@@ -3,8 +3,7 @@
 /**
  * CsvExporter
  *
- * @author    XihongKe <xihongke@foxmail.com>
- * @copyright 2021 XihongKe
+ * @author    Xihong Ke <xihongke@foxmail.com>
  * @license   http://www.opensource.org/licenses/mit-license.php MIT
  * @link      https://github.com/XihongKe/CsvExporter
  */
